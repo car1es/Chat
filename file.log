@@ -1,0 +1,17 @@
+[16.02.2023 13:23] Server running
+[16.02.2023 14:12] Server running
+[16.02.2023 14:12] Client connected: /127.0.0.1: 58010
+[16.02.2023 14:13] Алексей: Привет Всем!
+[16.02.2023 14:13] Client connected: /127.0.0.1: 58015
+[16.02.2023 14:13] Павел: hi
+[16.02.2023 14:13] Алексей: Привет, Павел!
+[16.02.2023 14:13] Павел: Привет, Алексей
+[16.02.2023 14:14] null
+[16.02.2023 14:14] null
+[16.02.2023 14:14] TCPConnection exception java.net.SocketException: Broken pipe
+[16.02.2023 14:14] Client disconnected: /127.0.0.1: 58015
+[16.02.2023 14:14] Алексей: Эх и Павел, ушел по английски! 
+[16.02.2023 14:14] null
+[16.02.2023 14:14] null
+[16.02.2023 14:14] TCPConnection exception java.net.SocketException: Broken pipe
+[16.02.2023 14:14] Client disconnected: /127.0.0.1: 58010
